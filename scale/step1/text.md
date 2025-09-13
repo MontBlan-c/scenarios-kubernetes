@@ -8,3 +8,4 @@ Create a deployment called `my-deploy` of image `nginx` with three replicas
 <br>
 ```
 k create deployment my-deploy --image=nginx --replicas=3
+```
